@@ -117,5 +117,11 @@
         <group>KrDZIs3011Io</group>
     </student>
 </students>
-
+<student>
+	<firstname>Kamila</firstname>
+	<lastname>Chwastowska</lastname>
+	<email>kchwastowska@gmail.com</email>
+	<github>chwastowska</github>
+	<group>KrDZIs3011Io</group>
+</student>
 
